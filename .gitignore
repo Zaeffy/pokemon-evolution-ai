@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data about pokemons
+data/*.json
+
+# .idea (from pycharm)
+.idea
